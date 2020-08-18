@@ -9,9 +9,7 @@ We made this bot because the majority of our members uses the LINE messaging pla
 
 ## Bot Functionalities
 * Item price database. (All prices courtesy of http://rl.insider.gg)
-* Stats and MMR. (In progress - API provided by https://rocketleaguestats.com)
-* Roster watch. (In talk with Octane.gg)
-* E-sports schedules. (Planned)
+* Stats and MMR. (Deprecated, External API shut down by Psyonix)
 
 ## Contributors
 
