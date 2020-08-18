@@ -1,5 +1,5 @@
 # RLID-Bot
-[![RLI](https://i.imgur.com/oY3eVn0.png)](https://rl.insider.gg)[![RLS](https://i.imgur.com/e7qr3BU.png)](https://rocketleaguestats.com/)
+[![RLI](https://i.imgur.com/oY3eVn0.png)](https://rl.insider.gg)
 
 An utility chat bot for Rocket League Indonesia community on LINE messaging platform. (For private use only)
 
